@@ -1,6 +1,6 @@
 
 
-@login
+@Login
 Feature: Login
 
    Para que sendo um usuário cadastrado
